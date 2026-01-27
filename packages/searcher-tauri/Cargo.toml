@@ -9,7 +9,7 @@ enum-map = "2.7.3"
 enumset = "1.1.5"
 log = "0.4.25"
 num_cpus = "1.16.0"
-oneshot = { version = "0.1.8", default-features = false, features = ["std"] }
+oneshot = { version = "0.1.12", default-features = false, features = ["std"] }
 serde = { version = "1.0.217", features = ["derive"] }
 serde_yaml_ng = "0.10.0"
 tauri = { version = "1", features = ["shell-open"] }
