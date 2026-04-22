@@ -10,7 +10,7 @@ enum-map = "2.7.3"
 enumset = "1.1.5"
 fs2 = "0.4.3"
 log = "0.4.22"
-rand = "0.8.5"
+rand = "0.8.6"
 
 static_assertions = "1.1.0"
 
